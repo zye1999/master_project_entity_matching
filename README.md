@@ -3,6 +3,7 @@
 1.For the large data set, it is hard for us to calculate a matrix(21000*21000) to achieve the pair match. We discussed about several solutions:
 
 (1)Randomly shuffle the entities 10 times, each time choosing 100 rows of them to calculate and compare these with the correct results. But sometimes there is no matching pairs in the 100 rows. ()
+
 (2)After calculating the whole matrix (21000*21000), we have to find the minimum distance in the matrix and reduce the size of matrix by merging this smallest distance.---still need a huge calculation at first.
 
 
