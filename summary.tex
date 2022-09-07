@@ -1,6 +1,42 @@
 \documentclass[]{article}
+
+
+\title{Summary}
+
 \begin{document}
 \begin{abstract}
-    abc
+   
 \end{abstract}
+
+\section{Character-based}
+We would use Levenshtein distance, which includes three types of edit operations: inserting a character, deleting a character, and replacing one character. In general, the smaller the edit distance, the greater the similarity between the two strings.
+
+Here are the basic steps of the algorithm. 
+
+(1) Construct a matrix with rows m+1 and columns n+1, which is used to store the number of operations that need to be performed to complete a certain conversion, and the number of operations that need to be performed to convert the string s[1..n] to the string t[1..m] is the value of matrix[n][m].
+
+(2) Initialize the first row of the matrix to be 0 to n and the first column to be 0 to m.
+
+Matrix[0][j] denotes the value of column j-1 of row 1. This value indicates the number of operations that need to be performed to convert the string s[1...0] to t[1...j]. It is obvious that converting an empty string to a string of length j requires only j add operations, so the value of matrix[0][j] should be j, and the other values and so on.
+
+(3) Check each s[i] character from 1 to n.
+
+(4) Check each s[i] character from 1 to m.
+
+(5)compare each character of string s and string t by two, if equal, let cost be 0, if not equal, let cost be 1 (this cost will be used later)
+
+(6) a. If we can convert s[1..i-1] to t[1..j] inside k operations, then we can remove s[i] and then do these k operations, so a total of k+1 operations are needed.
+
+b. If we can convert s[1..i] to t[1..j-1] within k operations, that is, d[i,j-1]=k, then we can add t[j] to s[1..i], so that a total of k+1 operations are needed.
+
+c. If we can convert s[1..i-1] to t [1..j-1] in k steps, then we can convert s[i] to t[j] such that s[1..i] == t[1..j] is satisfied, which also requires a total of k+1 operations. (Cost is added here because if s[i] is exactly equal to t[j], then no further substitution operation is required to satisfy, and if not, then another substitution operation is required, and then k+1 operations are needed)
+
+d. Since we want to obtain the minimum number of operations, we finally also need to compare the number of operations of these three cases, taking the minimum value as the value of d[i,j]. Then repeat the step of 3,4,5,6, and the final result is in d[n,m].
+
+
+\section{Crossparsing}
+
+\section{Token-based}
+
+
 \end{document}
