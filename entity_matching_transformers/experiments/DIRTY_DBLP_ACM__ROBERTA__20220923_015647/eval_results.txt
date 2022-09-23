@@ -1,0 +1,13 @@
+***** Eval results after epoch -1 *****
+eval_loss: 0.7359617629358846
+f1_score: 0.3044223517312307
+simple_accuracy: 0.17953902143145978
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      2029
+           1       0.18      1.00      0.30       444
+
+    accuracy                           0.18      2473
+   macro avg       0.09      0.50      0.15      2473
+weighted avg       0.03      0.18      0.05      2473
+
