@@ -1,0 +1,307 @@
+idx                                                                                                                                                                                                                                                                              2561
+text_left     sony black dvd recorder and vhs combo player rdrvx560 multiformat dvd compatible hdmi output with 1080p ,1080 i ,720 p upscaling usb one touch dubbing 4 video head stereo vhs with 19 micron heads virtual surround sound for dvd with stereo tv speakers black finish
+text_right                                                                                                                                                                                  toshiba d-r560 dvd player/recorder toshiba d-r560 dvd recorder w / built in digital tuner
+label                                                                                                                                                                                                                                                                               0--------------------Split Line--------------------idx                                                                                                                                        516
+text_left     sony 4gb memory stick pro duo mark 2 media card msmt4g 160 mbps transfer speed ideal for avchd recording 3.66 gb actual capacity
+text_right                                                                                   sony admscf1 sony memory stick duo adapter for cf
+label                                                                                                                                        0--------------------Split Line--------------------idx                                                           2561
+text_left     microsoft word 2004 upgrade ( mac ) microsoft 109.99
+text_right                     microsoft onenote 2007 ( pc ) 99.95
+label                                                            0--------------------Split Line--------------------idx                                                                          516
+text_left        3mds network operations manager diy annual subscptn 101 500u 3m
+text_right    3mds network operations managerdiy annual subscptn 101 500u 144.63
+label                                                                          1--------------------Split Line--------------------idx                                                                        6151
+text_left                 norton internet security 2008 10 user symantec 199.99
+text_right    norton internet security ( v3 .0 ) mac symantec 10069614-in 83.43
+label                                                                         0--------------------Split Line--------------------idx                                                        2573
+text_left     adobe acrobat capture 3.0 22101258 ) adobe 299.99
+text_right      adobe acrobat v8 .0 professional for mac 405.99
+label                                                         0--------------------Split Line--------------------idx                                                                   6160
+text_left     jumpstart advanced preschool v2 .0 knowledge adventure 19.99
+text_right                        jumpstart ( r ) advanced 1st grade 19.99
+label                                                                    0--------------------Split Line--------------------idx                                                               6164
+text_left     adobe creative suite cs3 production premium adobe 1699.0
+text_right                               adobe cs3 web premium 1659.99
+label                                                                0--------------------Split Line--------------------idx                                                                                  2586
+text_left                      intuit quicken home inventory manager windows intuit 34.95
+text_right    intuit quicken basic 2007 software for windows tax & finance software 29.95
+label                                                                                   0--------------------Split Line--------------------idx                                                                                    2595
+text_left                    sibelius 4 professional edition sibelius-software-ltd . 599.99
+text_right    37510 novabackup professional edition v. 7.5 upgrade license 1 user win 25.06
+label                                                                                     0--------------------Split Line--------------------idx                                            1578
+text_left           suitcase fusion 1u box extensis
+text_right    extensis suitcase fusion 1u box 99.99
+label                                             1--------------------Split Line--------------------idx                                                                  4653
+text_left                 pc cakewalk guitar tracks pro 3 cakewalk 149.99
+text_right    cakewalk guitar tracks pro 3 music production software 99.0
+label                                                                   1--------------------Split Line--------------------idx                                                                        3635
+text_left                  hoyle card games ( jewel case ) encore software 9.99
+text_right    encore software 10025 hoyle card games ( win 98 me 2000 xp ) 7.47
+label                                                                         1--------------------Split Line--------------------idx                                                                                 2100
+text_left                   land before time : preschool brighter-minds-media-inc . 9.99
+text_right    the land before time : preschool adventure brighter-minds-media-inc . 12.9
+label                                                                                  1--------------------Split Line--------------------idx                                                                 3644
+text_left                      microsoft works suite 2006 microsoft 99.0
+text_right    microsoft academic microsoft visio 2003 professional 159.0
+label                                                                  0--------------------Split Line--------------------idx                                        6717
+text_left     brain builder core learning 19.95
+text_right      spanish vocabulary builder 6.95
+label                                         0--------------------Split Line--------------------idx                                                                        4672
+text_left          jumpstart advanced 2nd grade v2 .0 knowledge adventure 19.99
+text_right    knowledge adventure inc. jumpstart advanced preschool v2 .0 16.93
+label                                                                         0--------------------Split Line--------------------idx                                                                                                                 1600
+text_left                                                  sibelius 5 professional edition sibelius-software-ltd . 599.0
+text_right    sibelius sibelius 4 software educational discount music production software sibelius-software-ltd . 249.95
+label                                                                                                                  0--------------------Split Line--------------------idx                                                                1089
+text_left     adobe creative suite cs3 web premium [ mac ] adobe 1599.0
+text_right                        adobe cs3 web premium academic 479.99
+label                                                                 0--------------------Split Line--------------------idx                                              1094
+text_left     hoyle south beach solitaire encore 9.99
+text_right            encore inc hoyle solitaire 7.83
+label                                               0--------------------Split Line--------------------idx                                                               1609
+text_left     sym clt security 3.1 scs media cd en symantec media 28.0
+text_right     symantec 11105054 sym web sec win 3.0 media cd en 17.49
+label                                                                0--------------------Split Line--------------------idx                                                                                              587
+text_left                        quickbooks premier professional services edition 2007 intuit 399.95
+text_right    269-10040 microsoft office professional edition 2003 service pack v. 2 media vol 23.53
+label                                                                                              0--------------------Split Line--------------------idx                                                                             5710
+text_left     sonicwall global vpn client license 01-ssc-5310 ) sonic systems inc. .
+text_right          01-ssc-5310 sonicwall global vpn client license 1 user win 43.85
+label                                                                              0--------------------Split Line--------------------idx                                                   3663
+text_left                      safekeeper plus bling 39.99
+text_right    bling software limited safekeeper plus 39.99
+label                                                    0--------------------Split Line--------------------idx                                                 83
+text_left            quicken 2007 premier intuit 79.95
+text_right    quickbooks pro 2007 3 user intuit 398.99
+label                                                0--------------------Split Line--------------------idx                                                                                        1623
+text_left     punch ! master landscape professional & home design v 10.0 punch ! software 69.95
+text_right                    punch software 90500 home design studio mac punch software 135.99
+label                                                                                         0--------------------Split Line--------------------idx                                                                          2150
+text_left     adobe creative suite cs3 design standard upsell [ mac ] adobe 899.0
+text_right                                   adobe cs3 web standard upsell 819.99
+label                                                                           0--------------------Split Line--------------------idx                                                                                    106
+text_left                     tlc arthur 's kindergarten learning system 2008 encore 19.99
+text_right    encore software 13871 tlc reader rabbit 1st grade learning system 2008 17.97
+label                                                                                    0--------------------Split Line--------------------idx                                                                      3697
+text_left     instant immersion spanish deluxe 2.0 topics entertainment 49.99
+text_right                              instant immers italian dlux 2 . 36.11
+label                                                                       0--------------------Split Line--------------------idx                                                 4093
+text_left     adobe premiere pro cs3 upgrade adobe 299.0
+text_right              filemaker pro 8.5 upgrade 169.99
+label                                                  0--------------------Split Line--------------------idx                                                                 5237
+text_left     steinberg nuendo 3 digital audio software steinberg 2499.0
+text_right                                               software 153.99
+label                                                                  0--------------------Split Line--------------------idx                                                      1148
+text_left              micromat podlock ( mac ) micromat 69.0
+text_right    microspot interiors ( mac 10.2 or later ) 99.95
+label                                                       0--------------------Split Line--------------------idx                                                               2685
+text_left     adobe photoshop cs3 extended upgrade [ mac ] adobe 349.0
+text_right           adobe pagemaker 7.0 for mac version upgrade 79.99
+label                                                                0--------------------Split Line--------------------idx                                                      3711
+text_left     adobe photoshop cs3 upgrade [ mac ] adobe 199.0
+text_right           adobe cs3 design standard upgrade 413.99
+label                                                       0--------------------Split Line--------------------idx                                                       3719
+text_left     avid liquid vs 7 software avid technology 888.75
+text_right                                      software 46.99
+label                                                        0--------------------Split Line--------------------idx                                                                             1678
+text_left     microsoft windows vista ultimate full version [ dvd ] microsoft 399.95
+text_right                   microsoft windows xp home edition sp2 retail box 199.99
+label                                                                              0--------------------Split Line--------------------idx                                                          6801
+text_left     kids power fun for girls topics entertainment 19.99
+text_right                           kids power fun for kids 15.9
+label                                                           0--------------------Split Line--------------------idx                                                                                      1177
+text_left            valuesoft tune transfer for ipod software for windows xp valuesoft 29.95
+text_right    iparrot spanish/english phrase translator software for ipod ipod software 19.95
+label                                                                                       0--------------------Split Line--------------------idx                                                                                                 1181
+text_left                                   adobe creative suite cs3 design premium [ mac ] adobe 1799.0
+text_right    19300109 adobe creative suite 3 design standard product upgrade package 1 user upgr 424.74
+label                                                                                                  0--------------------Split Line--------------------idx                                                                               3232
+text_left     quickbooks premier manufacturer and wholesale edition 2007 intuit 399.95
+text_right                                           quickbooks pro 2007 3 user 409.52
+label                                                                                0--------------------Split Line--------------------idx                                                                                                                 167
+text_left                                                   cubase 4 competitive crossgrade steinberg ( yamaha ) 549.99
+text_right    steinberg wavelab studio 6 audio editing software competitive crossgrade music production software 199.95
+label                                                                                                                 0--------------------Split Line--------------------idx                                                                                   2217
+text_left                 typing instructor deluxe ( jewel case ) individual software 9.99
+text_right    cross stitch design studio ( jewel case ) ( 8006 ) m-and-r-technologies 9.59
+label                                                                                    0--------------------Split Line--------------------idx                                                                               699
+text_left             peachtree by sage complete accounting 2007 sage software 269.99
+text_right    peachtree ( r ) complete iii for dos 5.0-10 .0 continuous checks 121.89
+label                                                                               0--------------------Split Line--------------------idx                                                     4293
+text_left     microsoft onenote 2007 upgrade microsoft 79.95
+text_right         microsoft money 2007 premium ( pc ) 79.99
+label                                                      0--------------------Split Line--------------------idx                                                               2757
+text_left     sony psp media manager sony-computer-entertainment 24.99
+text_right             personal imagemanager smith-micro-software 22.9
+label                                                                0--------------------Split Line--------------------idx                                                                4807
+text_left     instant immersion 33 languages topics entertainment 49.99
+text_right    instant immersion 33 languages topics entertainment 43.99
+label                                                                 1--------------------Split Line--------------------idx                                                                      3273
+text_left     microsoft student with encarta premium 2008 dvd microsoft 49.95
+text_right                              microsoft office 2004 standard 369.99
+label                                                                       0--------------------Split Line--------------------idx                                           5835
+text_left     calendar creator 10 broderbund 29.99
+text_right        calendar creator deluxe 10 49.87
+label                                            0--------------------Split Line--------------------idx                                                                                                        6861
+text_left     m-audio pro tools m-powered 7.3 m-audio compatible world-class production software m-audio 299.99
+text_right                                                 steinberg nuendo 3 music production software 1999.99
+label                                                                                                         0--------------------Split Line--------------------idx                                                                       5841
+text_left     adobe creative suite cs3 web premium upgrade [ mac ] adobe 499.0
+text_right                 adobe photoshop cs3 extended for mac upgrade 329.99
+label                                                                        0--------------------Split Line--------------------idx                                                                              1236
+text_left                         jumpstart world 1st grade knowledge adventure 19.99
+text_right    knowledge adventure inc. 20223 jumpstart world 1st grade mini box 16.93
+label                                                                               1--------------------Split Line--------------------idx                                                                         1750
+text_left     instant immersion translator deluxe 2.0 topics entertainment 49.99
+text_right                                   instant immers spanish dlux 2 36.11
+label                                                                          0--------------------Split Line--------------------idx                                                                       4824
+text_left     adobe creative suite cs3 web premium upgrade [ mac ] adobe 499.0
+text_right                                adobe cs3 production premium 1749.99
+label                                                                        0--------------------Split Line--------------------idx                                                                      1248
+text_left     adventure workshop preschool-1st grade 8th edition encore 19.99
+text_right           encore software 12431 adventure workshop 8 4th-6th 17.97
+label                                                                       0--------------------Split Line--------------------idx                                                                                               1761
+text_left     microsoft visual studio team suite 2005 with msdn premium ( cd & dvd ) microsoft 10949.0
+text_right                           microsoft student with encarta premium 2008 complete package 43.6
+label                                                                                                0--------------------Split Line--------------------idx                                          3301
+text_left     adobe after effects cs3 adobe 999.0
+text_right             adobe fireworks cs3 309.99
+label                                           0--------------------Split Line--------------------idx                                                                                                            4841
+text_left     ca brightstor arcserve backup r11 .1 for netware tape library option service pack computer associates
+text_right      babwbr1151s04 brightstor arcserve backup serverless backup option for windows w/sp1 v. 11 . 1031.41
+label                                                                                                             0--------------------Split Line--------------------idx                                                                                                                1262
+text_left     microsoft windows small business server cal 2003 license pack 20 client addpack device microsoft software
+text_right             11105972 symantec backup exec 11d for windows small business server agent for windows sys 320.66
+label                                                                                                                 0--------------------Split Line--------------------idx                                                                2811
+text_left     family tree maker 11.2 collector 's edition encore 109.95
+text_right          family tree maker version 16 deluxe ( 10870 ) 57.59
+label                                                                 0--------------------Split Line--------------------idx                                                                                                              5386
+text_left                                        diskeeper 2007 pro premier 10-lic pack diskeeper corporation 1372.21
+text_right    diskeeper corporation diskeeper 2007 professional edition complete package 1 workstation academic 29.99
+label                                                                                                               0--------------------Split Line--------------------idx                                              1802
+text_left     jumpstart 1st grade knowledge adventure
+text_right               jumpstart phonics ( jc ) 9.9
+label                                               0--------------------Split Line--------------------idx                                       3851
+text_left     adobe soundbooth cs3 adobe 199.0
+text_right      adobe cs3 web standard 1035.99
+label                                        0--------------------Split Line--------------------idx                                   2319
+text_left     omniweb 5.0 omni group 29.99
+text_right              omni web 5.0 23.99
+label                                    1--------------------Split Line--------------------idx                                                                                                2836
+text_left     creating keepsakes scrapbook designer version 2 platinum riverdeep-learning-company 39.99
+text_right          encore software 10612 creating keepsakes scrapbook designer deluxe v. 3 sb cs 17.97
+label                                                                                                 0--------------------Split Line--------------------idx                                                                                   6426
+text_left     microsoft windows vista business 32-bit for system builders microsoft 179.99
+text_right           microsoft windows services for netware v. 5.0 complete package 138.17
+label                                                                                    0--------------------Split Line--------------------idx                                                                                                          795
+text_left                                    punch ! home design architectural series 18 punch ! software 129.99
+text_right    punch software 84100 punch ! home design architectural series 4000 v. 10.0 architectural pc 168.97
+label                                                                                                          0--------------------Split Line--------------------idx                                                                                                   4382
+text_left                                                adobe dreamweaver cs3 upgrade [ mac ] adobe 199.0
+text_right    adobe creative suite 3 ( cs3 ) web standard 3 windows upsell from dreamweaver or flash 799.0
+label                                                                                                    0--------------------Split Line--------------------idx                                                                     6434
+text_left        microsoft office 2004 professional ( mac ) microsoft 499.99
+text_right    microsoft office 2004 for students and teachers ( mac ) 134.99
+label                                                                      0--------------------Split Line--------------------idx                                                    292
+text_left     sims 2 pets expansion pack aspyr media 34.99
+text_right        the sims expansion collection vol 1 8.72
+label                                                    0--------------------Split Line--------------------idx                                                            5423
+text_left     adobe indesign cs3 upgrade from pagemaker adobe 199.0
+text_right                     adobe cs3 web premium upgrade 517.99
+label                                                             0--------------------Split Line--------------------idx                                                              3902
+text_left     resumemaker professional 12.0 individual software 29.99
+text_right                          diskeeper 2007 professional 46.95
+label                                                               0--------------------Split Line--------------------idx                                                                                       1857
+text_left                          filemaker mobile 8 for palm os and pocket pc filemaker 69.0
+text_right    td824ll/a filemaker mobile v. 8 complete package 1 user cd win mac palm os 66.15
+label                                                                                        0--------------------Split Line--------------------idx                                                     4941
+text_left     microsoft visio standard 2007 microsoft 259.95
+text_right                 microsoft ( r ) excel 2007 109.99
+label                                                      0--------------------Split Line--------------------idx                                                                                                   5455
+text_left                                  adobe creative suite cs3 master collection [ mac ] adobe 2499.0
+text_right    adobe creative suite 3 ( cs3 ) web standard 3 windows upsell from dreamweaver or flash 799.0
+label                                                                                                    0--------------------Split Line--------------------idx                                                                                  1360
+text_left     microsoft office & windows training professional topics entertainment 49.95
+text_right          microsoft ( r ) windows ( r ) xp professional edition with sp2 199.99
+label                                                                                   0--------------------Split Line--------------------idx                                                                                  4951
+text_left           cisco 2600xm ser ios ip/fw/ids cd26xm-ch = ) cisco systems enterprise
+text_right    cd362-chk9 = cisco ios ip/fw/ids plus ipsec 3des complete package cd 3060.9
+label                                                                                   0--------------------Split Line--------------------idx                                                               1368
+text_left     adobe after effects 7.0 professional ( mac ) adobe 999.0
+text_right                         adobe cs3 flash professional 724.99
+label                                                                0--------------------Split Line--------------------idx                                                           2394
+text_left                   microsoft onenote 2007 microsoft 99.95
+text_right    microsoft ( r ) powerpoint ( r ) 2002 upgrade 108.87
+label                                                            0--------------------Split Line--------------------idx                                                        1383
+text_left     adobe illustrator cs3 upgrade [ mac ] adobe 199.0
+text_right                 adobe illustrator cs3 for mac 619.99
+label                                                         0--------------------Split Line--------------------idx                                                                       5998
+text_left     ca internet security suite 2007 3 user computer associates 69.95
+text_right                   panda internet security 2007 panda software 49.99
+label                                                                        0--------------------Split Line--------------------idx                                                                                   5494
+text_left                 printmaster 17 platinum by encore software encore software 39.99
+text_right    encore software 10444 elementary school advantage 2007 sb cs by encore 25.97
+label                                                                                    0--------------------Split Line--------------------idx                                                                                    4476
+text_left           century software tinyterm plus v. 4.0 complete product century software
+text_right    sony creative software sound forge audio studio v. 8.0 complete product 55.29
+label                                                                                     0--------------------Split Line--------------------idx                                       2943
+text_left     quicken 2007 deluxe intuit 59.95
+text_right    quicken ( r ) premier 2007 79.99
+label                                        0--------------------Split Line--------------------idx                                                                4992
+text_left     adobe creative suite cs3 web premium [ mac ] adobe 1599.0
+text_right                        adobe cs3 web standard upgrade 413.99
+label                                                                 0--------------------Split Line--------------------idx                                                                           5014
+text_left            punch ! master landscape & home design punch ! software 99.99
+text_right    punch software 20100 punch ! 5 in 1 home design punch software 35.99
+label                                                                            0--------------------Split Line--------------------idx                                                               4502
+text_left     mcafee internet security suite 2007 3 users mcafee 89.99
+text_right                 kaspersky ( r ) internet security 6.0 76.99
+label                                                                0--------------------Split Line--------------------idx                                                                               4513
+text_left                                    microsoft works suite 2006 microsoft 99.0
+text_right    microsoft office 2004 software suite oem mac apple & mac software 239.95
+label                                                                                0--------------------Split Line--------------------idx                                                                                                   6563
+text_left                                                punch ! 5 in 1 home design punch ! software 39.99
+text_right    punch software 14100 punch ! professional home design suite for windows punch software 62.99
+label                                                                                                    0--------------------Split Line--------------------idx                                                                    6052
+text_left     mavis beacon teaches typing 17 standard encore software 19.99
+text_right            broderbund mavis beacon teaches typing deluxe17 36.99
+label                                                                     0--------------------Split Line--------------------idx                                                                                                    436
+text_left                              adobe creative suite cs3 design standard upsell [ mac ] adobe 899.0
+text_right    adobe creative suite 3 ( cs3 ) web standard 3 windows upsell from dreamweaver or flash 799.0
+label                                                                                                    0--------------------Split Line--------------------idx                                                                         2493
+text_left                      punch super home suite 3.0 punch ! software 49.99
+text_right    punch software 17100 punch ! super home suite punch software 45.99
+label                                                                          1--------------------Split Line--------------------idx                                                                                              6078
+text_left     weekly reader mastering elementary/middle school math learning fogware publishing 19.99
+text_right        fogware publishing weekly reader ls mastering elementary & middle school math 16.93
+label                                                                                               1--------------------Split Line--------------------idx                                                                967
+text_left     microsoft publisher 2007 version upgrade microsoft 99.95
+text_right          office pro 2007 upgrade microsoft 269-10294 257.71
+label                                                                0--------------------Split Line--------------------idx                                                                     472
+text_left     quickbooks premier non-profit edition 2005 intuit inc. 499.95
+text_right                                          quickbooks ( r ) 199.99
+label                                                                     0--------------------Split Line--------------------idx                                                                              987
+text_left     the print shop 22 deluxe sb cs by the print shop encore software 49.95
+text_right    encore software 10032 the print shop 21 essentials by broderbund 17.97
+label                                                                              0--------------------Split Line--------------------idx                                                                                                                    6108
+text_left                 m-audio pro tools m-powered 7.3 m-audio compatible world-class production software m-audio 299.99
+text_right    sibelius compass music composition teaching software music production software sibelius-software-ltd . 119.95
+label                                                                                                                     0--------------------Split Line--------------------idx                                                                             6109
+text_left            microsoft student with encarta premium 2008 dvd microsoft 49.95
+text_right    microsoft ( r ) office 2004 for mac student and teacher edition 146.95
+label                                                                              0--------------------Split Line--------------------idx                                                       3046
+text_left     adobe photoshop cs3 extended [ mac ] adobe 999.0
+text_right                 adobe illustrator cs3 ( mac ) 599.0
+label                                                        0--------------------Split Line--------------------idx                                                                 3564
+text_left           microsoft word 2007 version upgrade microsoft 109.95
+text_right    microsoft academic microsoft visio 2003 professional 159.0
+label                                                                  0--------------------Split Line--------------------idx                                                                                               493
+text_left     adobe after effects professional 6.5 upgrade from standard to professional adobe 499.99
+text_right                                                     adobe cs3 after effects upgrade 306.99
+label                                                                                               0--------------------Split Line--------------------idx                                                                        3578
+text_left     microsoft windows vista ultimate upgrade [ dvd ] microsoft 259.95
+text_right                      microsoft windows xp home edition sp2 oem 95.99
+label                                                                         0--------------------Split Line--------------------idx                                                                                                    1021
+text_left           total training for adobe creative suite 3 : design premium bundle total training 299.99
+text_right    adobe production premium cs3 software suite for windows professional editing software 1698.95
+label                                                                                                     0--------------------Split Line--------------------
