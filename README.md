@@ -1,15 +1,47 @@
-# master_project_entity_matching
+<h1 align="center">Implementation and evaluation of entity matching algorithms</h1>
+<h2 align="center"> :pencil: Introduction</h2>
 
-Questions：
+Entity matching is an important task of distinguishing whether text pairs refer to the same entity. In this repository, we implement text-based methods and machine learning methods to solve this problem. Also, their accuracy and runtime are compared.
 
-1.For the large data set, it is hard for us to calculate a matrix(21000*21000) to achieve the pair match. We discussed about several solutions:
+<h2 align="center"> :pencil: Download and use</h2>
+You can use Jupiter Notebook, vscode, or other IDEs to run these codes.
 
-(1)Randomly shuffle the entities 10 times, each time choosing 2100 rows of them to calculate and compare these with the correct results.
+Please enter
+```bash
+$ git clone http://GitHub.com/zye1999/master-project-entity-matching.git
+```
+in the terminal to download.
 
-(2)After calculating the whole matrix (21000*21000), we have to find the minimum distance in the matrix and reduce the size of matrix by merging this smallest distance.---still need a huge calculation at first.
+<h2 align="center"> :pencil: Repository structure</h2>
 
+### Datasets
+In folder “data”, there are four clean datasets and four corresponding dirty datasets which are analyzed in the paper. These [datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md) are sourced from [Deep Learning for Entity Matching](https://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf).
 
-2.We tried to combine several attributes into one string, but there are several missing items in different attributes. So we may need to use different weight for each attribute to get a combined distance. How can we choose these weight? In this case, for the two entity, if they are the same id, but one has 4 attributes and one has 1, how can we do?
+### Text-based methods
+- Folder “crossparsing” contains algorithms of crossparsing method to solve entity matching problems.
+- Folder "character based model" contains algorithm of character based model based on Levenshtein distance.
+- Folder "token-based” contains three token-based algorithms based on 3 grams.
 
-Report link:
-https://www.overleaf.com/project/630f46b9d6a9fff7b55d3dd2
+### Machine learning methods
+The folder "machine learning" contains three algorithms (Bert, Roberta, and Distilbert).
+
+###  Evaluation and comparison
+In the “evaluation and comparison” folder, there is a file(plot_result.ipynb) that compares the accuracy of three text based methods.
+
+The “NEW text-based methods runtime.ipynb” file shows the runtime and f1 score of text-based methods.
+
+The “text-based methods errors.ipynb” file shows all the mismatch cases of text based methods.
+
+<h2 align="center"> :pencil: Contributions</h2>
+
+| Name        | Personal page                                                                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Xiaonan Jian    | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaonan-jian)   |
+| Jingjing Li | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jing-jing-Li) |
+| Geyu Meng   | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GY-Meng)      |
+| Zi Ye  | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zye1999)     |
+
+<h2 align="center"> :pencil: Acknowledgement</h2>
+
+- Many thanks to Dr. Sven Helmer who helped us a lot as a tutor during the research.
+- The part of machine learning code is developed based on paper [Entity Matching with Transformer Architectures - A Step Forward in Data Integration](https://openproceedings.org/2020/conf/edbt/paper_205.pdf). Many thanks to the authors who provide the framework for machine learning code.
