@@ -24,6 +24,7 @@ In folder “data”, there are four clean datasets and four corresponding dirty
 
 ### Machine learning methods
 The folder "machine learning" contains three algorithms (Bert, Roberta, and Distilbert).
+To reproduce the experiments, run the `run_all.sh` file.
 
 ###  Evaluation and comparison
 In the “evaluation and comparison” folder, there is a file(plot_result.ipynb) that compares the accuracy of three text based methods.
