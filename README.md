@@ -15,23 +15,23 @@ in the terminal to download.
 <h2 align="center"> :pencil: Repository structure</h2>
 
 ### Datasets
-In folder “data”, there are four clean datasets and four corresponding dirty datasets which are analyzed in the paper. These [datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md) are sourced from [Deep Learning for Entity Matching](https://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf).
+In folder ```data```, there are four clean datasets and four corresponding dirty datasets which are analyzed in the paper. These [datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md) are sourced from [Deep Learning for Entity Matching](https://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf).
 
 ### Text-based methods
-- Folder “crossparsing” contains algorithms of crossparsing method to solve entity matching problems.
-- Folder "character based model" contains algorithm of character based model based on Levenshtein distance.
-- Folder "token-based” contains three token-based algorithms based on 3 grams.
+- Folder ```crossparsing``` contains algorithms of crossparsing method to solve entity matching problems.
+- Folder ```character based method``` contains algorithm of character based model based on Levenshtein distance.
+- Folder ```token based methods``` contains three token-based algorithms based on 3 grams.
 
 ### Machine learning methods
-The folder "machine learning" contains three algorithms (Bert, Roberta, and Distilbert).
+The folder ```machine learning``` contains three algorithms (Bert, Roberta, and Distilbert).
 To reproduce the experiments, run the `run_all.sh` file.
 
 ###  Evaluation and comparison
-In the “evaluation and comparison” folder, there is a file(plot_result.ipynb) that compares the accuracy of three text based methods.
+In the ```evaluation and comparison``` folder, there is a file ```plot_result.ipynb``` that compares the accuracy of three text based methods.
 
-The “NEW text-based methods runtime.ipynb” file shows the runtime and f1 score of text-based methods.
+The ```NEW text-based methods runtime.ipynb``` file shows the runtime and f1 score of text-based methods.
 
-The “text-based methods errors.ipynb” file shows all the mismatch cases of text based methods.
+The ```text-based methods errors.ipynb``` file shows all the mismatch cases of text based methods.
 
 <h2 align="center"> :pencil: Contributions</h2>
 
