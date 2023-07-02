@@ -116,49 +116,49 @@ python ./src/run_training.py --model_type=distilbert --model_name_or_path=distil
 # On the expanded dataset DBLP_ACM_CLEAN
 cecho "GREEN" "Expanded dblp_acm"
 # BERT
-cecho "YELLOW" "Start dirty_dblp_acm BERT"
-python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm BERT"
+python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x2 BERT"
-python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x2 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x2 BERT"
+python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x2 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x4 BERT"
-python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x4 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x4 BERT"
+python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x4 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x8 BERT"
-python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x8 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x8 BERT"
+python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x8 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x16 BERT"
-python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x16 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x16 BERT"
+python ./src/run_training.py --model_type=bert --model_name_or_path=bert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x16 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
 # roBERTa
-cecho "YELLOW" "Start dblp_scholar roBERTa"
-python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_scholar --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm roBERTa"
+python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dblp_scholar_x2 roBERTa"
-python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_scholar_x2 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x2 roBERTa"
+python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x2 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dblp_scholar_x4 roBERTa"
-python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_scholar_x4 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x4 roBERTa"
+python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x4 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dblp_scholar_x8 roBERTa"
-python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_scholar_x8 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x8 roBERTa"
+python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x8 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dblp_scholar_x16 roBERTa"
-python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_scholar_x16 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x16 roBERTa"
+python ./src/run_training.py --model_type=roberta --model_name_or_path=roberta-base --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x16 --train_batch_size=8 --eval_batch_size=16 --max_seq_length=128 --num_epochs=15.0 --seed=${SEED}
 
 # DistilBERT
-cecho "YELLOW" "Start dirty_dblp_acm DistilBERT"
-python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm DistilBERT"
+python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x2 DistilBERT"
-python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x2 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x2 DistilBERT"
+python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x2 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x4 DistilBERT"
-python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x4 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x4 DistilBERT"
+python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x4 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x8 DistilBERT"
-python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x8 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x8 DistilBERT"
+python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x8 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
 
-cecho "YELLOW" "Start dirty_dblp_acm_x16 DistilBERT"
-python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dirty_dblp_acm_x16 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
+cecho "YELLOW" "Start dblp_acm_x16 DistilBERT"
+python ./src/run_training.py --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=../data/dblp_acm_x16 --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=15.0 --seed=${SEED}
