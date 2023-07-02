@@ -33,6 +33,8 @@ The ```NEW text-based methods runtime.ipynb``` file shows the runtime and f1 sco
 
 The ```text-based methods errors.ipynb``` file shows all the mismatch cases of text based methods.
 
+The ```compare crossparsing with ML.ipynb``` file compare the errors in crossparsing method and machine learning method.
+
 <h2 align="center"> :pencil: Contributions</h2>
 
 | Name        | Personal page                                                                                                                                  |
